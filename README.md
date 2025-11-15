@@ -4,12 +4,13 @@ I'm an aspiring Full Stack Developer and tech enthusiast who enjoys creating, le
 
 ***
 
-I’m currently working on: Figma designs, and UI/UX improvements
-I’m currently learning: TypeScript, Tailwand css
-I’m looking to collaborate on: Full Stack projects and real-world application development, Product Building  
-Ask me about: Java, React.js, APIs, and Backend Development
-How to reach me: mail me → 2200032124cseh@gmail.com  
-Fun fact: I break things just to learn how to build them better :)  
+- I’m currently working on: Figma designs and UI/UX improvements  
+- I’m currently learning: TypeScript, Tailwind CSS  
+- I’m looking to collaborate on: Full Stack projects, real-world application development, and product building  
+- Ask me about: Java, React.js, APIs, and Backend Development  
+- How to reach me → 2200032124cseh@gmail.com  
+- Fun fact: I break things just to learn how to build them better :)  
+
 
 
 
