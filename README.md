@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm an aspiring Full Stack Developer who enjoys cr
 - Developed backend APIs with Node.js and Express, including search and filtering features for smoother navigation.
 - Integrated an AI-based college predictor to assist students in making better admission decisions.
 
-### Imail
+### Imail - A simplified Gmail-style system
 - Built a complete email client with Inbox, Compose, Send, and Delete functionalities.
 - Optimized frontend rendering with React.js and improved load time by efficient state management.
 - Designed secure backend APIs using Node.js, Express.js, and MongoDB.
