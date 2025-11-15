@@ -45,6 +45,21 @@ I'm an aspiring Full Stack Developer and tech enthusiast who enjoys creating, le
 - Optimized frontend rendering with React.js and improved load time by efficient state management.
 - Designed secure backend APIs using Node.js, Express.js, and MongoDB.
 
+***
+## GitHub Status
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth32124&layout=compact&theme=radical" />
+
+  <img height="180" src="https://streak-stats.demolab.com/?user=Prashanth32124&theme=radical" />
+</div>
+
+***
+## Let's Connect
+Code builds applications — vision builds products.
+
+
+
 
 
 
